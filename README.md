@@ -1,3 +1,3 @@
-## Echo3DS
+# FileShare
 CTRPluginFrameworkを用いた3DS上のボイスチャットクライアント
 
