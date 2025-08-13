@@ -1,3 +1,3 @@
-# builderscon
+# Shogi
 CTRPluginFrameworkを用いた3DS上のボイスチャットクライアント
 
