@@ -1,3 +1,3 @@
-# Shogi
+# grade-management
 CTRPluginFrameworkを用いた3DS上のボイスチャットクライアント
 
